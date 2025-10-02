@@ -1,0 +1,9 @@
+openai
+langchain
+pandas
+sqlalchemy
+sqlite3
+openpyxl
+pyodbc
+python-dotenv
+numpy
